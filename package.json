@@ -1,0 +1,24 @@
+{
+  "name": "portly",
+  "version": "1.0.0",
+  "description": "Wait for a port to open, associate it to a process, without blocking the port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "lie": "^3.0.1",
+    "lsof": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmarkclements/portly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/portly/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/portly#readme"
+}
